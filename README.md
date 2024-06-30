@@ -4,9 +4,9 @@ Calculates logistic costs, visualizes data and lets try out differnet scenarios.
 
 ## General:
 
-Uses excel files of specific form remembers shipped components in the order they were shipped. 
+Uses excel files of specific form, calculates the weekly costs and plots the result. Also has a slider for varying the pick-up.
 
-Delivery and Pick-Up happen on the same day - Sunday, and the commponents that were shipped first are picked-up first. It calculates weekly costs, displays the data and shows the average cost per week. Lets you vary the monthly Pick-Up amount via a slider, see the changes in real-time, and saves the changes when the window is closed (if desired). 
+Remembers shipped components in the order they were shipped. Delivery and Pick-Up happen on the same day - Sunday, and the commponents that were shipped first are picked-up first. It calculates weekly costs, displays the data and shows the average cost per week. Lets you vary the monthly Pick-Up amount via a slider, see the changes in real-time, and saves the changes when the window is closed (if desired). 
 
 Later I will add another slider that will let vary the distribution of pick-up amount within the month (e.g. pick up more items in the beginning of the month and less in the end of it).
 
